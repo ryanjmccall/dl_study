@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .idea
+src/dl_study/intro_to_pytorch/data
 
 # C extensions
 *.so
